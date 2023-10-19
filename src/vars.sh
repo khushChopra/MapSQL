@@ -1,0 +1,1 @@
+export MYSQL_CONN_STRING=mysql://root:123456@localhost:3306/coulomb
