@@ -43,7 +43,8 @@ Commands to setup a mysql database for vehicles
 
 ### Backend -
 1. run `pip install Flask PyJWT SQLAlchemy`
-2. Run `python src/backend/main.py`
+2. Source src/vars.sh
+3. Run `python src/backend/main.py`
 
 ### Data pusher
 1. Run `python src/data_pusher/pusher.py`
